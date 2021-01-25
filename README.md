@@ -17,8 +17,6 @@ TODO
 
 
 
-## MIT
-
 
 ## License
 
