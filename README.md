@@ -16,6 +16,7 @@ TODO
 #### 3 点云可视化
 
 > 3D点云可视化的库有很多，你的选择可能是：
+more→ https://github.com/HuangCongQing/Point-Clouds
 
 - pcl 点云可视化 [`c++`]
 - ROS topic可视化  [`c++`]
@@ -25,13 +26,17 @@ TODO
 
 
 
+
 ## paper(code)
+
+TODO
 
 
 
 ## Datasets
 
 ### 数据集下载
+* shell脚本下载方式: https://github.com/HuangCongQing/download_3D_dataset
 
 - [https://hyper.ai/datasets](https://hyper.ai/datasets)
 - [https://www.graviti.cn/open-datasets](https://www.graviti.cn/open-datasets)
