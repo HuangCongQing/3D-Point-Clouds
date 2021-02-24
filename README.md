@@ -10,6 +10,18 @@
 
 
 TODO
+## 目录
+#### 1 paper(code)
+#### 2 Datasets
+#### 3 点云可视化
+
+> 3D点云可视化的库有很多，你的选择可能是：
+
+- pcl 点云可视化 [`c++`]
+- ROS topic可视化  [`c++`]
+- open3D [`python`]
+- mayavi[`python`]
+- matplolib [`python`]
 
 
 
@@ -88,10 +100,14 @@ TODO
 
 
 
-- **[**[**S3DIS**](http://buildingparser.stanford.edu/dataset.html#Download)**] The Stanford Large-Scale 3D Indoor Spaces Dataset. [`seg.`]**常用
-- **[**[**SemanticKITTI**](http://semantic-kitti.org/)**] Sequential Semantic Segmentation, 28 classes, for autonomous driving. All sequences of KITTI odometry labeled. [**[**ICCV 2019 paper**](https://arxiv.org/abs/1904.01416)**] [`seg.` `oth.` `aut.`]**常用
+- **[**[**S3DIS**](http://buildingparser.stanford.edu/dataset.html#Download)**] The Stanford Large-Scale 3D Indoor Spaces Dataset. [`seg.`] [`常用`]
+- **[**[**SemanticKITTI**](http://semantic-kitti.org/)**] Sequential Semantic Segmentation, 28 classes, for autonomous driving. All sequences of KITTI odometry labeled. [**[**ICCV 2019 paper**](https://arxiv.org/abs/1904.01416)**] [`seg.` `oth.` `aut.`] [`常用`]
 - **Semantic3d**
+
 ### 常用分类数据集
+
+todo
+
 
 
 
