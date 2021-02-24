@@ -25,8 +25,10 @@ TODO
 
 ## References
 
-https://github.com/victorphd/autonomous-vahicles-learning-resource
-
+* https://github.com/victorphd/autonomous-vahicles-learning-resource
+* https://github.com/timzhang642/3D-Machine-Learning
+* https://github.com/Yochengliu/awesome-point-cloud-analysis
+* https://github.com/QingyongHu/SoTA-Point-Cloud
 
 
 
