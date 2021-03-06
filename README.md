@@ -3,20 +3,25 @@
 3D点云SOTA方法,代码,论文,数据集(点云目标检测&amp;分割)
 
 点云处理方法上主要包括两类方法
+
 * 深度学习方法 [`python`]
 * 传统上基于规则的方法 [`c++`]
 
 @[双愚](https://github.com/HuangCongQing) , 若fork或star请注明来源
 
-
 TODO
+
 ## 目录
+
 #### 1 paper(code)
+
 #### 2 Datasets
+
 #### 3 点云可视化
 
-> 3D点云可视化的库有很多，你的选择可能是：
-more→ https://github.com/HuangCongQing/Point-Clouds
+点云可视化笔记和代码：https://github.com/HuangCongQing/Point-Clouds-Visualization
+
+3D点云可视化的库有很多，你的选择可能是：
 
 - pcl 点云可视化 [`c++`]
 - ROS topic可视化  [`c++`]
@@ -24,38 +29,31 @@ more→ https://github.com/HuangCongQing/Point-Clouds
 - mayavi[`python`]
 - matplolib [`python`]
 
-
-
-
 ## paper(code)
 
 TODO
 
-
-
 ## Datasets
 
 ### 数据集下载
+
 * shell脚本下载方式: https://github.com/HuangCongQing/download_3D_dataset
 
 - [https://hyper.ai/datasets](https://hyper.ai/datasets)
 - [https://www.graviti.cn/open-datasets](https://www.graviti.cn/open-datasets)
+
 > Graviti 收录了 400 多个高质量 CV 类数据集，覆盖无人驾驶、智慧零售、机器人等多种 AI 应用领域。举两个例子：
-文章> [https://bbs.cvmart.net/topics/3346](https://bbs.cvmart.net/topics/3346)
+> 文章> [https://bbs.cvmart.net/topics/3346](https://bbs.cvmart.net/topics/3346)
 
 - Google数据集搜索：[https://toolbox.google.com/datasetsearch](https://toolbox.google.com/datasetsearch)
 - Datahub，分享高质量数据集平台：[https://datahub.io/](https://datahub.io/)
 - 用于上传和查找数据集的机器学习数据集存储库：[https://www.webdoctx.com/www.mldata.org](https://www.webdoctx.com/www.mldata.org)
 - datafountain收集数据集：[https://www.datafountain.cn/dataSets](https://www.datafountain.cn/dataSets)
 - tinymind收集数据集：[https://www.tinymind.cn/sites#group_22](https://www.tinymind.cn/sites#group_22) 看到的一篇文章,里面有介绍很多数据集的：[世界上最有价值的不是石油而是数据(附数据资源下载链接)](https://mp.weixin.qq.com/s/Ao8SO9j2IPurl45Noy1dVw)
-
-
-
 - [https://www.graviti.cn/open-datasets](https://www.graviti.cn/open-datasets)
 
-
-
 ## Datasets数据集汇总
+
 [https://github.com/Yochengliu/awesome-point-cloud-analysis#---datasets](https://github.com/Yochengliu/awesome-point-cloud-analysis#---datasets)
 
 - **[**[KITTI](http://www.cvlibs.net/datasets/kitti/)] The KITTI Vision Benchmark Suite. [`det.`]**常用
@@ -98,12 +96,7 @@ TODO
 - [[PointDA-10 Dataset](https://github.com/canqin001/PointDAN)] Domain Adaptation for point clouds.
 - [[Oxford Robotcar](https://robotcar-dataset.robots.ox.ac.uk/)] The dataset captures many different combinations of weather, traffic and pedestrians. [**`cls.`** **`det.`** **`rec.`**]
 
-
-
 ### 常用分割数据集
-
-
-
 
 - **[**[**S3DIS**](http://buildingparser.stanford.edu/dataset.html#Download)**] The Stanford Large-Scale 3D Indoor Spaces Dataset. [`seg.`] [`常用`]
 - **[**[**SemanticKITTI**](http://semantic-kitti.org/)**] Sequential Semantic Segmentation, 28 classes, for autonomous driving. All sequences of KITTI odometry labeled. [**[**ICCV 2019 paper**](https://arxiv.org/abs/1904.01416)**] [`seg.` `oth.` `aut.`] [`常用`]
@@ -113,20 +106,12 @@ TODO
 
 todo
 
-
-
-
-
-
-
 ## References
 
 * https://github.com/victorphd/autonomous-vahicles-learning-resource
 * https://github.com/timzhang642/3D-Machine-Learning
 * https://github.com/Yochengliu/awesome-point-cloud-analysis
 * https://github.com/QingyongHu/SoTA-Point-Cloud
-
-
 
 ## License
 
