@@ -37,21 +37,91 @@ TODO
 
 #### One-stage
 
-Voxel-Net、DECOND、PointPillars、HVNet、DOPS、Point-GNN、SA-SSD、3D-VID、3DSSD
+> Voxel-Net、DECOND、PointPillars、HVNet、DOPS、Point-GNN、SA-SSD、3D-VID、3DSSD
+
+* Voxel-Net
+* DECOND
+* PointPillars
+* HVNet
+* DOPS
+* Point-GNN
+* SA-SSD
+* 3D-VID
+* 3DSSD
 
 #### Two-stage
 
 
-F-pointNet、F-ConvNet、Point-RCNN、Part-A^2、PV-RCNN、Fast Point RCNN、TANet
+> F-pointNet、F-ConvNet、Point-RCNN、Part-A^2、PV-RCNN、Fast Point RCNN、TANet
+
+* F-pointNet
+* F-ConvNet
+* Point-RCNN
+* Part-A^2
+* PV-RCNN
+* Fast Point RCNN
+* TANet
 
 ### 3D_Semantic_Segmentation
+**PointNet** is proposed to learn per-point features using shared MLPs and global features using symmetrical pooling functions. Based on PointNet, a series of point-based networks have been proposed
 
-#### 
+>Point-based Methods: these methods can be roughly divided into pointwise MLP methods, point convolution methods, RNN-based methods, and graph-based methods
+
+#### 1 pointwise MLP methods
+
+> PointNet++，PointSIFT，PointWeb，ShellNet，RandLA-Net
+
+
+
+PointNet++
+PointSIFT
+PointWeb
+ShellNet
+RandLA-Net
 
 
 
 
+#### 2 point convolution methods
 
+> PointCNN PCCN A-CNN ConvPoint pointconv KPConv DPC InterpCNN
+
+
+* PointCNN
+* PCCN
+* A-CNN
+* ConvPoint
+* pointconv
+* KPConv
+* DPC
+* InterpCNN
+
+
+#### 3 RNN-based methods
+> G+RCU  RSNet  3P-RNN  DAR-Net
+
+
+* G+RCU  
+* RSNet  
+* 3P-RNN  
+* DAR-Net
+
+
+#### 4 graph-based methods
+
+> DGCNN SPG SSP+SPG PyramNet GACNet PAG HDGCN  HPEIN SPH3D-GCN DPAM
+
+
+* DGCNN
+* SPG
+* SSP+SPG
+* PyramNet
+* GACNet
+* PAG
+* HDGCN
+* HPEIN
+* SPH3D-GCN
+* DPAM
 
 ### 3D_Instance Segmentation
 
