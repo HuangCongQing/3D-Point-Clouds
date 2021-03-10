@@ -31,7 +31,30 @@ TODO
 
 ## paper(code)
 
-TODO
+### 3D_Object_Detection
+* One-stage
+* Two-stage
+
+#### One-stage
+
+Voxel-Net、DECOND、PointPillars、HVNet、DOPS、Point-GNN、SA-SSD、3D-VID、3DSSD
+
+#### Two-stage
+
+
+F-pointNet、F-ConvNet、Point-RCNN、Part-A^2、PV-RCNN、Fast Point RCNN、TANet
+
+### 3D_Semantic_Segmentation
+
+#### 
+
+
+
+
+
+
+### 3D_Instance Segmentation
+
 
 ## Datasets
 
@@ -114,6 +137,7 @@ todo
 * https://github.com/QingyongHu/SoTA-Point-Cloud
 * https://github.com/NUAAXQ/awesome-point-cloud-analysis-2021
 * https://zhuanlan.zhihu.com/p/354043252
+* https://arxiv.org/abs/1912.12033 : Deep Learning for 3D Point Clouds: A Survey
 
 ## License
 
