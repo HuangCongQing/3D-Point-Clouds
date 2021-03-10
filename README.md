@@ -113,6 +113,7 @@ todo
 * https://github.com/Yochengliu/awesome-point-cloud-analysis
 * https://github.com/QingyongHu/SoTA-Point-Cloud
 * https://github.com/NUAAXQ/awesome-point-cloud-analysis-2021
+* https://zhuanlan.zhihu.com/p/354043252
 
 ## License
 
