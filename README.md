@@ -112,6 +112,7 @@ todo
 * https://github.com/timzhang642/3D-Machine-Learning
 * https://github.com/Yochengliu/awesome-point-cloud-analysis
 * https://github.com/QingyongHu/SoTA-Point-Cloud
+* https://github.com/NUAAXQ/awesome-point-cloud-analysis-2021
 
 ## License
 
