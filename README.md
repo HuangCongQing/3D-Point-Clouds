@@ -29,6 +29,12 @@ TODO
 - mayavi[`python`]
 - matplolib [`python`]
 
+##### 5 点云数据标注
+数据标注工具总结：https://github.com/HuangCongQing/data-labeling-tools
+
+---
+
+
 ## paper(code)
 
 ### 3D_Object_Detection
@@ -186,31 +192,4 @@ RandLA-Net
 - [[NPM3D](http://npm3d.fr/paris-lille-3d)] The Paris-Lille-3D has been produced by a Mobile Laser System (MLS) in two different cities in France (Paris and Lille). [**`seg.`**]
 - [[The Waymo Open Dataset](https://waymo.com/open/)] The Waymo Open Dataset is comprised of high resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions. [**`det.`**]
 - [[A*3D: An Autonomous Driving Dataset in Challeging Environments](https://github.com/I2RDL2/ASTAR-3D)] A*3D: An Autonomous Driving Dataset in Challeging Environments. [**`det.`**]
-- [[PointDA-10 Dataset](https://github.com/canqin001/PointDAN)] Domain Adaptation for point clouds.
-- [[Oxford Robotcar](https://robotcar-dataset.robots.ox.ac.uk/)] The dataset captures many different combinations of weather, traffic and pedestrians. [**`cls.`** **`det.`** **`rec.`**]
-
-### 常用分割数据集
-
-- **[**[**S3DIS**](http://buildingparser.stanford.edu/dataset.html#Download)**] The Stanford Large-Scale 3D Indoor Spaces Dataset. [`seg.`] [`常用`]
-- **[**[**SemanticKITTI**](http://semantic-kitti.org/)**] Sequential Semantic Segmentation, 28 classes, for autonomous driving. All sequences of KITTI odometry labeled. [**[**ICCV 2019 paper**](https://arxiv.org/abs/1904.01416)**] [`seg.` `oth.` `aut.`] [`常用`]
-- **Semantic3d**
-
-### 常用分类数据集
-
-todo
-
-## References
-
-* https://github.com/victorphd/autonomous-vahicles-learning-resource
-* https://github.com/timzhang642/3D-Machine-Learning
-* https://github.com/Yochengliu/awesome-point-cloud-analysis
-* https://github.com/QingyongHu/SoTA-Point-Cloud
-* https://github.com/NUAAXQ/awesome-point-cloud-analysis-2021
-* https://zhuanlan.zhihu.com/p/354043252
-* https://arxiv.org/abs/1912.12033 : Deep Learning for 3D Point Clouds: A Survey
-
-## License
-
-Copyright (c) [双愚](https://github.com/HuangCongQing). All rights reserved.
-
-Licensed under the [MIT](./LICENSE) License.
+- [[PointDA-10 Dataset](https://github.com/canqin001/PointDAN)] Domain Adaptation for point clouds
