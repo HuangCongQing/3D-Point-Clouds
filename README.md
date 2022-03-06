@@ -42,10 +42,10 @@ TODO
 
 #### One-stage
 
-> Voxel-Net、DECOND、PointPillars、HVNet、DOPS、Point-GNN、SA-SSD、3D-VID、3DSSD
+> Voxel-Net、SECOND、PointPillars、HVNet、DOPS、Point-GNN、SA-SSD、3D-VID、3DSSD
 
 * Voxel-Net
-* DECOND
+* SECOND
 * PointPillars
 * HVNet
 * DOPS
