@@ -12,7 +12,11 @@
 
 @[双愚](https://github.com/HuangCongQing) , 若fork或star请注明来源
 
-TODO
+## TODO
+* [ ]目标检测最新论文实时更新
+* [ ]语义分割最新论文实时更新
+* [ ]目标检测框架(pcdet+mmdetection3d+det3d)文章撰写
+* [ ]数据集详细剖析：kitti&waymo
 
 ## 目录
 
@@ -142,7 +146,7 @@ RandLA-Net
 
 ### 数据集下载
 
-* shell脚本下载方式: https://github.com/HuangCongQing/download_3D_dataset
+*  **shell脚本下载方式: https://github.com/HuangCongQing/download_3D_dataset**
 
 - [https://hyper.ai/datasets](https://hyper.ai/datasets)
 - [https://www.graviti.cn/open-datasets](https://www.graviti.cn/open-datasets)
