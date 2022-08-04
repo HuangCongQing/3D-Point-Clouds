@@ -13,10 +13,10 @@
 @[双愚](https://github.com/HuangCongQing) , 若fork或star请注明来源
 
 ## TODO
-* [ ]目标检测最新论文实时更新
-* [ ]语义分割最新论文实时更新
-* [ ]目标检测框架(pcdet+mmdetection3d+det3d)文章撰写
-* [ ]数据集详细剖析：kitti&waymo
+  - [ ] 目标检测最新论文实时更新
+  - [ ] 语义分割最新论文实时更新
+  - [ ] 目标检测框架(pcdet+mmdetection3d+det3d)文章撰写
+  - [ ] 数据集详细剖析：kitti&waymo
 
 ## 目录
 
