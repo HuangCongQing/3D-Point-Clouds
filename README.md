@@ -26,7 +26,15 @@
 
 #### 2 Datasets
 
+**[自动驾驶相关数据集调研总结【附下载地址】(更新ing)](https://zhuanlan.zhihu.com/p/551861727)**
+
+
 数据集基本处理: [数据集标注文件处理](https://github.com/HuangCongQing/Python#%E7%82%B9%E4%BA%91%E7%9B%B8%E5%85%B3%E5%A4%84%E7%90%86)
+
+部分数据下载脚本：https://github.com/HuangCongQing/download_3D_dataset
+
+
+
 
 #### 3 点云可视化
 
