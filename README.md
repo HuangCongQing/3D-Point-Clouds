@@ -43,7 +43,7 @@
 3D点云可视化的库有很多，你的选择可能是：
 
 - pcl 点云可视化 [`c++`]
-- ROS topic可视化  [`c++`]
+- ROS topic可视化  [`c++`] [`python`]
 - open3D [`python`]
 - mayavi[`python`]
 - matplolib [`python`]
