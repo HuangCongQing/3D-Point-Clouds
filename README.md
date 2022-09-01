@@ -9,14 +9,16 @@
 * 传统上基于规则的方法 [`c++`]
   * PCL:https://github.com/HuangCongQing/pcl-learning
   * ROS:   https://github.com/HuangCongQing/ROS
+  * Apollo笔记：https://github.com/HuangCongQing/apollo_note
 
 @[双愚](https://github.com/HuangCongQing) , 若fork或star请注明来源
 
 ## TODO
   - [ ] 目标检测最新论文实时更新
   - [ ] 语义分割最新论文实时更新
-  - [ ] 目标检测框架(pcdet+mmdetection3d+det3d)文章撰写
+  - [ ] 目标检测框架(pcdet+mmdetection3d+det3d+paddle3d)文章撰写
   - [ ] 数据集详细剖析：kitti&waymo
+  - [ ] Apollo学习https://github.com/HuangCongQing/apollo_note
 
 ## 目录
 
