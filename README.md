@@ -22,6 +22,14 @@
 
 ## 目录
 
+#### 0 目标检测框架(pcdet+mmdetection3d+det3d+paddle3d)
+代码注解笔记：
+
+1. pcdet:https://github.com/HuangCongQing/pcdet-note
+2. mmdetection3d:https://github.com/HuangCongQing/mmdetection3d-note
+3. det3d: TODO
+4. paddle3dL TODO
+
 #### 1 paper(code)
 
 * paperswithcode: https://paperswithcode.com/
