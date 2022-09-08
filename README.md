@@ -28,7 +28,7 @@
 1. pcdet:https://github.com/HuangCongQing/pcdet-note
 2. mmdetection3d:https://github.com/HuangCongQing/mmdetection3d-note
 3. det3d: TODO
-4. paddle3dL TODO
+4. paddle3d: TODO
 
 #### 1 paper(code)
 
