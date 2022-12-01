@@ -5,7 +5,7 @@
 点云处理方法上主要包括两类方法
 
 * 深度学习方法 [`python`]
-  * 目标检测&语义分割&...
+  * 目标检测&语义分割&多目标跟踪（MOT）
 * 传统上基于规则的方法 [`c++`]
   * PCL:https://github.com/HuangCongQing/pcl-learning
   * ROS:   https://github.com/HuangCongQing/ROS
