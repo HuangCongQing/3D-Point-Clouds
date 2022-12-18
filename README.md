@@ -66,6 +66,10 @@
 ## paper(code)
 
 ### 3D_Object_Detection
+- [x]  [**>>>目标检测最新论文实时更新**](https://zhuanlan.zhihu.com/p/591349104)
+
+
+
 * One-stage
 * Two-stage
 
