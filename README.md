@@ -18,6 +18,7 @@
   - [x] [【202212done】目标检测最新论文实时更新](https://zhuanlan.zhihu.com/p/591349104)
   - [ ] 语义分割最新论文实时更新
   - [x] [【202209done】目标检测框架(pcdet+mmdetection3d+det3d+paddle3d)文章撰写](https://zhuanlan.zhihu.com/p/569189196?)
+  - [x] [【202208done】数据集调研总结](https://zhuanlan.zhihu.com/p/551861727)
   - [ ] 数据集详细剖析：kitti&waymo&nuScenes
   - [ ] Apollo学习https://github.com/HuangCongQing/apollo_note
 
