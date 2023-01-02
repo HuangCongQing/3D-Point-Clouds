@@ -28,8 +28,9 @@
 ## 目录
 
 #### 0 目标检测框架(pcdet+mmdetection3d+det3d+paddle3d)
-代码注解笔记：
+> [【202209done】目标检测框架(pcdet+mmdetection3d+det3d+paddle3d)文章撰写](https://zhuanlan.zhihu.com/p/569189196?)
 
+代码注解笔记：
 1. **pcdet:https://github.com/HuangCongQing/pcdet-note**
 2. **mmdetection3d:https://github.com/HuangCongQing/mmdetection3d-note**
 3. det3d: TODO
