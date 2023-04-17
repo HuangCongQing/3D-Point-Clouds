@@ -7,7 +7,7 @@
 * 深度学习方法 [`python`]
   * 目标检测&语义分割&多目标跟踪（MOT）
   * [【202212done】目标检测最新论文实时更新](https://zhuanlan.zhihu.com/p/591349104)
-  * TODO: 语义分割最新论文实时更新
+  * [【202304done】语义分割最新论文实时更新](https://zhuanlan.zhihu.com/p/591349481)
 * 传统上基于规则的方法 [`c++`]
   * PCL:https://github.com/HuangCongQing/pcl-learning
   * ROS:   https://github.com/HuangCongQing/ROS
@@ -107,6 +107,12 @@
 * TANet
 
 ### 3D_Semantic_Segmentation
+
+
+### 3D_Object_Detection
+- [x]  [**>>>语义分割最新论文实时更新**](https://zhuanlan.zhihu.com/p/591349481)
+
+
 **PointNet** is proposed to learn per-point features using shared MLPs and global features using symmetrical pooling functions. Based on PointNet, a series of point-based networks have been proposed
 
 >Point-based Methods: these methods can be roughly divided into pointwise MLP methods, point convolution methods, RNN-based methods, and graph-based methods
