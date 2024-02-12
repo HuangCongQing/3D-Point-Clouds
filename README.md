@@ -114,8 +114,6 @@
 
 ### 3D_Semantic_Segmentation
 
-
-### 3D_Object_Detection
 - [x]  [**>>>语义分割最新论文实时更新**](https://zhuanlan.zhihu.com/p/591349481)
 
 
