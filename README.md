@@ -267,6 +267,7 @@ todo
 * https://github.com/NUAAXQ/awesome-point-cloud-analysis-2021
 * https://github.com/QingyongHu/SoTA-Point-Cloud
 * https://arxiv.org/abs/1912.12033 : Deep Learning for 3D Point Clouds: A Survey
+* https://github.com/zhulf0804/3D-PointCloud
 
 ## License
 
